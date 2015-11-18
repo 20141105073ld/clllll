@@ -14,7 +14,7 @@ int main(int argc, const char * argv[]) {
     a=100;
     p=&a;
     
-    printf("a=%x &a=%x &p=%x p=%x *p=%x\n",a,&a,&p,p,*p);
+    printf("a=%x &a=%x &p=%x p=%x *p=%x   \n",a,&a,&p,p,*p);
     return 0;
 }
 
